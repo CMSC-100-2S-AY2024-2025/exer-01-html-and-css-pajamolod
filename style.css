@@ -197,7 +197,7 @@ button {
 }
 
 .proj1 {
-    border: 2px solid navy;
+    box-shadow: 0 5px 20px rgba(23, 4, 173, 0.482);
     color: black; 
     padding: 1rem; 
     border-radius: 5px; 
@@ -235,8 +235,7 @@ button {
 }
 
 .proj2 {
-    border: 2px solid navy;
-    color: black; 
+    box-shadow: 0 5px 20px rgba(23, 4, 173, 0.482);    color: black; 
     padding: 1rem; 
     border-radius: 5px;  
     padding: 1rem; 
@@ -275,8 +274,7 @@ button {
 }
 
 .proj3 {
-    border: 2px solid navy;
-    color: black; 
+    box-shadow: 0 5px 20px rgba(23, 4, 173, 0.482);    color: black; 
     padding: 1rem; 
     border-radius: 5px; 
     padding: 1rem; 
@@ -312,6 +310,5 @@ button {
     width: 300px;
     object-fit: fill;
 }
-
 
 
