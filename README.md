@@ -12,12 +12,14 @@
 ○ Steps on how to create GitHub page
 - Go to the repository containing your file
 - click the settings
--click the 'Pages' under code and automation
-- under source, pick 'deploy from a branch' 
-- under branch, pick 'main' and '/root'
-- click save
+- click the 'Pages' under code and automation
+- under source, pick 'GitHub Action' 
+- click static HTML
+- click commit changes
 - go back to the code tab and click the tiny yellow circle around the top part and wait for it to finished.
 - after it finished, go back to settings then pages, a link will appear.
 
 ○ What are your key takeaways from this exercise?
-- The task is very tedious to do and take a lot more time than conceptualizing the design of the website. I also realized that I need to do more practice session to further familiarize my self with html and css properties.
+- The task was more tedious and time-consuming than conceptualizing the website’s design.
+- I realized the need for more practice to better familiarize myself with HTML and CSS properties.
+- Navigating GitHub was a bit tricky and requires more practice.
